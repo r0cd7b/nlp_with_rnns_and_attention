@@ -1,4 +1,5 @@
 .idea/
 .ipynb_checkpoints/
 my_tfhub_cache/
+training_checkpoints/
 *.py
